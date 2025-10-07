@@ -18,7 +18,7 @@ This project aims to understand the sales data of the given organization. Here, 
 
 The Sales Performance Report gives a high level view of the sales data. Here, I look at the main KPIs and a high level analysis of the sales data. The Sales Analysis report further analysis the sales data, exploring the data from regional and product-wise perspective. I have also explored the average order value by country and time periods. The Sales Trends section explores the composition of products that made up the total sales reported and how the sales varied with different reseller business types. The Forcast section forecasts the expected sales in the future using the historical data.
 
-In this project, I have incorporated various types of visuals that can done in Power BI :
+In this project, I have explored the use of various types of visuals that can done in Power BI as listed below :
   1. Data Cards
   2. Line Charts(with legends, with forecasts, etc.)
   3. Waterfall Charts
