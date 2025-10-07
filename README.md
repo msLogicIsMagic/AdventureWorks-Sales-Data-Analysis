@@ -12,7 +12,24 @@ This dataset contains the following data tables :
   6. SalesOrder
   7. SalesTerritory
 
-First, I explored the data in the tables given in the dataset. Here, I look for any missing or incorrect values that may be present in the raw data that needed to be transformed before I perform the data analysis. Since this is one of the most commonly used sample datasets that professionals use to learn PowerBI, I was not able to find any issues with this dataset. Next, I look at the tables in the model view of PowerBI to understand the relationship between the tables in the given dataset. Most relationships between the tables that are obvious at first glance are automatically recognized by PowerBI. Here, I needed to add some that were not obvious at first glance. Now, the data is ready for analysis.
+## Data Preparation
+Here, I look for any missing or incorrect values that may be present in the raw data that needed to be transformed before I perform the data analysis. Since this is one of the most commonly used sample datasets that professionals use to learn PowerBI, I was not able to find any issues with this dataset. 
+
+## Data Modeling
+
+Here, I use the model view of PowerBI to understand the relationship between the tables in the given dataset. Most relationships between the tables that are obvious at first glance are automatically recognized by PowerBI. Additionally, I have also added some relationships that were not picked up automatically by Power BI. Now, the data is ready for analysis.
+
+## DAX Measures Added
+
+1. Total Sales
+2. Total Customers
+3. Total Orders
+4. Total Cost
+5. Average Order Value
+6. Profit
+7. Profit Margin %
+
+## Creating the Power BI reports
 
 This project aims to understand the sales data of the given organization. Here, I have divided the report into 4 sections : Sales Performance Report, Sales Analysis Report, Sales Trends and Forecast.
 
